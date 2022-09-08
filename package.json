@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "npm install nodemon -g && nodemon ./index.js",
+    "dev": "nodemon ./index.js",
     "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
